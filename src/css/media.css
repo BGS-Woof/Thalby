@@ -1,0 +1,123 @@
+@media screen and (max-width: 1200px) {
+    .home-title {
+        font-size: 50px;
+        margin-bottom: 25px;
+    }
+
+    .society-subtitle {
+        font-size: 26px;
+    }
+}
+
+@media screen and (max-width: 992px) {
+    .container {
+        width: 650px;
+    }
+
+    .container-lg {
+        width: 750px;
+    }
+    
+    section {
+        width: 110%;
+    }
+
+    .footer {
+        width: 111%;
+    }
+
+    .img-thumbnail {
+        background-color: transparent;
+        border: none;
+    }
+
+    .sellers {
+        padding: 154px 0 88px;
+    }
+
+    .home-title {
+        font-size: 40px;
+    }
+
+    .home-subtitle {
+        font-size: 22px;
+    }
+
+    .society-subtitle {
+        font-size: 17px;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .home-img {
+        max-width: 100%;
+    }
+
+    .home-title {
+        margin-top: 130px;
+        line-height: 60px;
+    }
+
+    .sellers {
+        padding: 55px 0 88px;
+    }
+
+    .guides-title {
+        font-size: 30px;
+        margin-bottom: 27px;
+    }
+
+    .guides-subtitle-1 {
+        font-size: 16px;
+        margin-bottom: 40px;
+    }
+
+    .guides-subtitle-2 {
+        font-size: 17px;
+    }
+
+    .home-text {
+        margin-left: 178px;
+    }
+
+    .society-link {
+        margin-left: 178px;
+    }
+    .society-text {
+            margin-left: 178px;
+    }
+
+    .links {
+        margin-left: 0;
+    }
+
+    .footer {
+        height: 496px;
+    }
+
+    .footer-items {
+        position: relative;
+        bottom: 85px;
+    }
+
+    .footer-title {
+        text-align: center;
+        margin-bottom: 25px;
+    }
+
+    .footer-subtitle {
+        text-align: center;
+    }
+
+    .footer-itemss {
+        position: relative;
+        left: 200px;
+        bottom: 280px;
+    }
+}
+
+@media screen and (max-width: 680px) {
+    section {
+        width: 110%;
+    }
+}
